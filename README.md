@@ -1,7 +1,7 @@
 ## Lab 03
 
-- Name:
-- Email: 
+- Name: Andre bond
+- Email: bond.57@wright.edu
 
 Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab03/Instructions.html
 
@@ -9,7 +9,7 @@ Instructions for this lab: https://pattonsgirl.github.io/CEG2350/Labs/Lab03/Inst
 
 | git command         | Description |
 | ---                 | ---         | 
-| `git clone repo_URI`|             |
+| `git clone repo_URI`|clones your repository username and puts it in the list of files and directories|
 | `git status`        |             |
 | `git add filename`  |             |
 | `git commit`        |             |
