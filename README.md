@@ -45,11 +45,11 @@ Verify that `roll` made it to your GitHub repository for this course and is in y
 ## Part 5 - Retrospective Answers
 
 1. Where and when did it go wrong while working on your script tasks? 
-> Your reflection here around step 4 or 5 stuff just wasnt working how i wanted 
+> Your reflection here: around step 4 or 5 stuff just wasnt working how i wanted 
 2. Was anything familiar working with a new language compared to one you are used to?
-> Your reflection here if statements
+> Your reflection here: if statements
 3. Did you write good `commit` messages that refer to what tasks were completed at each commit?  What would you improve?
-> Your reflection here yes i woudlnt improve anything
+> Your reflection here: yes i woudlnt improve anything
 
 ## Part 6 - Citations / Resources
 
